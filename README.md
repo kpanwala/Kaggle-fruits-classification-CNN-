@@ -31,3 +31,5 @@ Different varieties of the same fruit (apple for instance) are stored as belongi
 
 
 Here is my google colab link "https://colab.research.google.com/notebooks/welcome.ipynb"
+
+download the dataset from "https://www.kaggle.com/moltean/fruits"
